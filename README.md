@@ -24,3 +24,9 @@ Contributions
 2) Mrunal Lele - Implementing logic for Relevance score calculation in task1, by which Category of Business was predicted.
 3) Shambhavi Dhargalkar - Finding Evaluation Metric(Rate of Change) in task2.
 4) Shreya Ghattamaraju Maruthi - Implementing logic for getting rating of business from Sentiment Analysis.
+
+Dictionary words - 
+1) Khusbhoo M - Active life etc.
+2) Mrunal L - Doctors & Health
+3) Shambhavi - Restaurants & Cuisine
+4) Shreya G M - Services & Entertainment.
